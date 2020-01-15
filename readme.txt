@@ -3,4 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Yunchang Lu test.
 Creating a new branch is quick.
-Creating in master.
+<<<<<<< HEAD
+Creating in master and fearure1.
